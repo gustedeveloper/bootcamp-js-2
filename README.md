@@ -1,1 +1,1 @@
-# bootcamp-js-2
+# Bootcamp Javascript 2 de Lemoncode
